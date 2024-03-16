@@ -211,7 +211,7 @@ três faixas:</p>
   <li>Construção da estrutura max-heap;</li>
   <li>Ordenação pela concatenação dos valores máximos obtidos:</li>
   <ul>
-    <li>Iteração: removendo um elemento (maior) por vez do heap;</li>
+    <li>Iteração: removendo um elemento (maior) por vez do heap.</li>
   </ul>
 </ol>
 <ul>
