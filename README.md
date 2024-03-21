@@ -235,7 +235,7 @@ três faixas:</p>
     </ul>
     <li>Melhor caso:</li>
     <ul>
-      <li>𝑂(𝑛 lg 𝑛)</li>
+      <li>𝑂(𝑛 lg 𝑛).</li>
     </ul>
   </ul>
 </ul>
